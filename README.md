@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lautaro Caceres.
-- 🔥 Co-Founder and Front-end dev of ------🔥PracTienda.com🔥------
+- 🔥 Co-Founder and Front-end dev of ------🔥Practienda.com🔥------
 - 👀 I’m interested in Front-End, UI and UX
-- 🌱 I’m currently learning Gatsby.JS (a framework based on React.js)
-- 💞️ I’m looking to collaborate on projects to learn about more tecnologies
+- 🌱 I’m currently learning Node.Js (and Express.Js)
+- 💞️ I’m looking to colaborate on projects to learn more about tecnologies
 - 📫 How to reach me:---//You can e-mail me at Lautycaceresss871@gmail.com//---
